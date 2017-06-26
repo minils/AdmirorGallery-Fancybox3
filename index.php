@@ -3,12 +3,11 @@
 # admirorgallery - Admiror Gallery Plugin
 # ------------------------------------------------------------------------
 # author   Nils Schwabe
-# copyright Copyright (C) 2017 minils.de All Rights Reserved.
-# @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+# @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
 # Websites: http://minils.de
-# Misc Fancbox3 Version 3.0.47
+# Misc: Fancybox3 Version 3.0.47
 
-# Thanks to Admiror Gallery (http://www.admiror-design-studio.com/admiror-joomla-extensions/admiror-gallery)
+# Originanlly created by Nikola Vasiljevski and Admiror Gallery (http://www.admiror-design-studio.com/admiror-joomla-extensions/admiror-gallery)
 # The plugin (https://github.com/vasiljevski/admirorgallery/tree/master/com_admirorgallery/admirorgallery/admirorgallery/popups/fancybox) was used as a template
 -------------------------------------------------------------------------*/
 // Joomla security code
