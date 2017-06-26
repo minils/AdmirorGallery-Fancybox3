@@ -1,6 +1,8 @@
 # AdmirorGallery-Fancybox3
 Fancybox3 plugin for famous Admiror Gallery Joomla Plugin
 
+More information and a demo can be found [here](http://fancyapps.com/fancybox/3/).
+
 ## Installation
 - Download the zip from the release section
 - Unzip it to the folder `plugins/content/admirorgallery/admirorgallery/popups/`
